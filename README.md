@@ -4,3 +4,4 @@ a repo to demonstrate basic git work
 Lorem ipsum,  
 dolor sic amet  
 some more text... 
+i added this via github
