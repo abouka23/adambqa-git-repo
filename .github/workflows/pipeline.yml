@@ -28,7 +28,7 @@ jobs:
       
 
       # Runs a set of commands using the runners shell
-      - name: hello.sh
+      - name: Run test.sh
         run: |
-          sudo chmod +x hello.sh
-          ./hello.sh "Adam B"
+          sudo chmod +x test.sh calc.sh
+          ./test.sh "Adam B"
